@@ -1,6 +1,6 @@
 #  Francine Danielle 
 
-26 anos, natural de Dois Córregos no interior de São Paulo, graduanda em Tecnologia da Informação pela Universidade Virtual do Estado de São Paulo, desenvolvedora junior front-end, entusiasta em UI e web design. Atualmente estagiando na área de Sistemas da Informação.
+26 anos, natural de Dois Córregos no interior de São Paulo, graduanda em Tecnologia da Informação pela Universidade Virtual do Estado de São Paulo, desenvolvedora junior front-end, entusiasta em UI e web design. Atualmente estagiando na área de Sistemas de Informação.
 
 ---
 
