@@ -1,6 +1,6 @@
 #  Francine Danielle 
 
-27 anos, natural de Dois Córregos no interior de São Paulo, graduanda em Tecnologia da Informação pela Universidade Virtual do Estado de São Paulo, desenvolvedora front-end junior, entusiasta em UI/UX e design gráfico. Atualmente estagiando na área de Sistemas de Informação.
+27 anos, natural de Dois Córregos no interior de São Paulo, graduanda em Tecnologia da Informação pela Universidade Virtual do Estado de São Paulo, desenvolvedora front-end jr, entusiasta em UI/UX e design gráfico. Atualmente estagiando na área de Sistemas de Informação.
 
 ---
 
@@ -33,11 +33,20 @@
 
 <img 
     align="left" 
-    alt="ReacJS" 
-    title="ReacJS"
+    alt="ReactJS" 
+    title="ReactJS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="NextJS" 
+    title="NextJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
 <img 
@@ -67,13 +76,5 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Canva" 
-    title="Canva"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
-/>
 
 
