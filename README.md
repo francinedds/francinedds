@@ -1,6 +1,6 @@
 #  Francine Danielle 
 
-Natural de Dois Córregos no interior de São Paulo, graduada em Tecnologia da Informação pela Universidade Virtual do Estado de São Paulo, desenvolvedora front-end com foco em React.js & entusiasta em web design.
+Natural de Dois Córregos no interior de São Paulo, graduada em Tecnologia da Informação pela Universidade Virtual do Estado de São Paulo, desenvolvedora front-end com foco em React.js & entusiasta em design.
 
 ---
 
